@@ -34,7 +34,7 @@
     "@aws-cdk/aws-sns": "^1.95.1",
     "@aws-cdk/core": "^1.95.1",
     "dotenv": "^8.2.0",
-    "mem": ">=6.1.1",
+    "mem": ">=8.1.1",
     "source-map-support": "^0.5.19"
   }
 }
